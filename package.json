@@ -1,0 +1,8 @@
+{
+  "name": "node-mongo-vue-vuestic-dashboard-template",
+  "version": "1.0.0",
+  "description": "node-mongo-vue-vuestic-dashboard-template",
+  "scripts": {
+    "start": "cd src/frontend && npm i && cd src/backend && npm i"
+  }
+}  
